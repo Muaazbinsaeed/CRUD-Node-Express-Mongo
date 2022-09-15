@@ -9,6 +9,9 @@ This project uses the following environment variables:
 | CORS | Cors accepted values       | "\*"                         |
 | Db   | Database connecting string | "mongodb://localhost:27017/" |
 
+
+![alt text](https://github.com/Muaazbinsaeed/CRUD-Node-Express-Mongo/blob/main/Swagger.png?raw=true)
+
 # Pre-requisites
 
 - Install [Node.js](https://nodejs.org/en/) version 14.18.0
